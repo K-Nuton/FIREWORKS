@@ -12,7 +12,7 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/nuton0413/pen/bGp
 // initialize
 const firewroks = new FIREWORKS({
     full_screen: boolean, 
-    target_node: DOMElement,
+    target_node: HTMLElement,
     amount: number,
 });
 
